@@ -1,0 +1,439 @@
+2016-03-19 15:07:41,964 INFO  [OneToOneText] user click on Start a New Conversation 
+2016-03-19 15:07:41,964 INFO  [OneToOneText] FriendName:My Friends 
+2016-03-19 15:17:25,018 INFO  [OneToOneText] user click on Start a New Conversation 
+2016-03-19 15:17:25,019 INFO  [OneToOneText] FriendName:My Friends 
+2016-03-19 15:19:16,469 INFO  [OneToOneText] user click on Start a New Conversation 
+2016-03-19 15:19:16,470 INFO  [OneToOneText] FriendName:My Friends 
+2016-03-19 15:25:43,793 INFO  [OneToOneText] user click on Start a New Conversation 
+2016-03-19 15:25:43,794 INFO  [OneToOneText] FriendName://UIATableView[1]/UIATableCell[105] 
+2016-03-19 15:27:01,217 INFO  [OneToOneText] getResisterDataList:2 
+2016-03-19 15:27:01,217 INFO  [OneToOneText] str:1 
+2016-03-19 15:27:01,217 INFO  [OneToOneText] MessageType:Normal 
+2016-03-19 15:27:01,217 INFO  [OneToOneText] textMessage:Good Morning! 
+2016-03-19 15:27:19,257 INFO  [BussenesCompernat] Text Message Sending to text type text! 
+2016-03-19 15:27:27,640 INFO  [OneToOneText] str:1 
+2016-03-19 15:27:27,640 INFO  [OneToOneText] MessageType:Blink 
+2016-03-19 15:27:27,640 INFO  [OneToOneText] textMessage:Jai Jagaranath,jai ram 
+2016-03-19 15:27:37,198 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:27:42,191 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:27:48,169 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:28:04,242 INFO  [BussenesCompernat] Text Message Sending to text type text! 
+2016-03-19 15:28:17,632 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 15:28:17,632 INFO  [RegisterPage] str:1 
+2016-03-19 15:28:17,632 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 15:28:21,883 INFO  [BussenesCompernat] wait doodle+ button! 
+2016-03-19 15:28:26,780 INFO  [BussenesCompernat] doodle+ buttion clicked! 
+2016-03-19 15:28:31,498 INFO  [BussenesCompernat] icon sketch button working! 
+2016-03-19 15:28:35,732 INFO  [BussenesCompernat] color code working 
+2016-03-19 15:28:38,227 INFO  [BussenesCompernat] sketch button working! 
+2016-03-19 15:28:40,716 INFO  [BussenesCompernat] user click on icon text button! 
+2016-03-19 15:28:51,293 INFO  [BussenesCompernat] text sending complte! 
+2016-03-19 15:28:55,382 INFO  [BussenesCompernat] click ok button! 
+2016-03-19 15:28:59,638 INFO  [BussenesCompernat] cooler button working! 
+2016-03-19 15:29:06,764 INFO  [BussenesCompernat] in doodle+ page Ok button working! 
+2016-03-19 15:29:13,730 INFO  [BussenesCompernat] Doodle image sending sucess! 
+2016-03-19 15:29:13,730 INFO  [RegisterPage] Doodle message complete 
+2016-03-19 15:29:13,753 INFO  [RegisterPage] str:1 
+2016-03-19 15:29:13,753 INFO  [RegisterPage] MessageType:Blink 
+2016-03-19 15:29:25,281 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:29:31,225 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:29:37,052 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:29:42,708 INFO  [BussenesCompernat] wait doodle+ button! 
+2016-03-19 15:29:48,392 INFO  [BussenesCompernat] doodle+ buttion clicked! 
+2016-03-19 15:29:53,113 INFO  [BussenesCompernat] icon sketch button working! 
+2016-03-19 15:29:57,453 INFO  [BussenesCompernat] color code working 
+2016-03-19 15:29:59,984 INFO  [BussenesCompernat] sketch button working! 
+2016-03-19 15:30:02,530 INFO  [BussenesCompernat] user click on icon text button! 
+2016-03-19 15:30:13,212 INFO  [BussenesCompernat] text sending complte! 
+2016-03-19 15:30:17,365 INFO  [BussenesCompernat] click ok button! 
+2016-03-19 15:30:21,566 INFO  [BussenesCompernat] cooler button working! 
+2016-03-19 15:30:28,755 INFO  [BussenesCompernat] in doodle+ page Ok button working! 
+2016-03-19 15:30:35,730 INFO  [BussenesCompernat] Doodle image sending sucess! 
+2016-03-19 15:30:36,217 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 15:30:36,217 INFO  [RegisterPage] str:1 
+2016-03-19 15:30:36,217 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 15:30:41,770 INFO  [BussenesCompernat] camera button working ! 
+2016-03-19 15:30:46,450 INFO  [BussenesCompernat] image sucessfuly capture! 
+2016-03-19 15:32:22,941 INFO  [BussenesCompernat] exception in camera button 
+2016-03-19 15:32:23,082 INFO  [RegisterPage] str:1 
+2016-03-19 15:32:23,082 INFO  [RegisterPage] MessageType:Blink 
+2016-03-19 15:32:34,575 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:32:40,517 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:32:46,416 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:32:52,333 INFO  [BussenesCompernat] camera button working ! 
+2016-03-19 15:32:57,111 INFO  [BussenesCompernat] image sucessfuly capture! 
+2016-03-19 15:34:34,405 INFO  [BussenesCompernat] exception in camera button 
+2016-03-19 15:34:35,474 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 15:34:35,474 INFO  [RegisterPage] str:1 
+2016-03-19 15:34:35,474 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 15:34:43,936 INFO  [BussenesCompernat] greeting button sucessfuly! clicked 
+2016-03-19 15:34:48,500 INFO  [BussenesCompernat] wait still downlode button not display! 
+2016-03-19 15:34:53,274 INFO  [BussenesCompernat] downlode button is display and user is sucess clicked! 
+2016-03-19 15:35:23,712 INFO  [BussenesCompernat] Allraday Downlode! 
+2016-03-19 15:35:33,418 INFO  [BussenesCompernat] greeting select complete! 
+2016-03-19 15:35:35,921 INFO  [BussenesCompernat] greeting sending working! 
+2016-03-19 15:35:35,921 INFO  [RegisterPage] greeting message complete 
+2016-03-19 15:35:36,021 INFO  [RegisterPage] str:1 
+2016-03-19 15:35:36,021 INFO  [RegisterPage] MessageType:Blink 
+2016-03-19 15:36:10,095 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:36:20,624 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:36:31,130 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:36:51,939 INFO  [BussenesCompernat] greeting button sucessfuly! clicked 
+2016-03-19 15:36:56,574 INFO  [BussenesCompernat] wait still downlode button not display! 
+2016-03-19 15:37:01,166 INFO  [BussenesCompernat] downlode button is display and user is sucess clicked! 
+2016-03-19 15:37:32,098 INFO  [BussenesCompernat] Allraday Downlode! 
+2016-03-19 15:37:41,891 INFO  [BussenesCompernat] greeting select complete! 
+2016-03-19 15:37:44,349 INFO  [BussenesCompernat] greeting sending working! 
+2016-03-19 15:37:45,072 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 15:37:45,072 INFO  [RegisterPage] str:1 
+2016-03-19 15:37:45,072 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 15:38:42,893 INFO  [BussenesCompernat] wait still downlode button not display! 
+2016-03-19 15:38:48,084 INFO  [BussenesCompernat] downlode button is display and user is sucess clicked! 
+2016-03-19 15:39:18,482 INFO  [BussenesCompernat] Allraday Downlode! 
+2016-03-19 15:39:27,809 INFO  [BussenesCompernat] sticker select complete! 
+2016-03-19 15:39:30,322 INFO  [BussenesCompernat] sticker sending working! 
+2016-03-19 15:39:30,322 INFO  [RegisterPage] Sticker message complete 
+2016-03-19 15:39:30,578 INFO  [RegisterPage] str:1 
+2016-03-19 15:39:30,578 INFO  [RegisterPage] MessageType:Blink 
+2016-03-19 15:40:20,609 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:40:38,203 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:40:56,075 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:41:38,086 INFO  [BussenesCompernat] wait still downlode button not display! 
+2016-03-19 15:41:43,235 INFO  [BussenesCompernat] downlode button is display and user is sucess clicked! 
+2016-03-19 15:42:14,243 INFO  [BussenesCompernat] Allraday Downlode! 
+2016-03-19 15:42:23,603 INFO  [BussenesCompernat] sticker select complete! 
+2016-03-19 15:42:26,062 INFO  [BussenesCompernat] sticker sending working! 
+2016-03-19 15:43:23,267 INFO  [BussenesCompernat] user click on Start a New Conversation 
+2016-03-19 15:44:06,781 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-19 15:44:06,782 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-19 15:44:06,782 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-19 15:44:47,563 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-19 15:45:06,404 INFO  [BussenesCompernat] user should able to click gallery page! 
+2016-03-19 15:45:10,303 INFO  [BussenesCompernat] Click image gallery page! 
+2016-03-19 15:45:15,512 INFO  [BussenesCompernat] user is selecet image from image gallery! 
+2016-03-19 15:45:20,794 INFO  [BussenesCompernat] Image sending sucessfuly! 
+2016-03-19 15:45:20,794 INFO  [OneToOneCurrentLocation] GalleryImage message complete 
+2016-03-19 15:45:20,857 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-19 15:45:20,857 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-19 15:45:59,524 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:46:17,378 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:46:36,367 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:47:16,810 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-19 15:47:37,982 INFO  [BussenesCompernat] user should able to click gallery page! 
+2016-03-19 15:47:41,826 INFO  [BussenesCompernat] Click image gallery page! 
+2016-03-19 15:47:46,963 INFO  [BussenesCompernat] user is selecet image from image gallery! 
+2016-03-19 15:47:51,769 INFO  [BussenesCompernat] Image sending sucessfuly! 
+2016-03-19 15:47:53,169 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-19 15:47:53,169 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-19 15:47:53,170 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-19 15:48:35,792 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-19 15:48:56,990 INFO  [BussenesCompernat] user should able to click audio message! 
+2016-03-19 15:49:39,869 INFO  [BussenesCompernat] recording audio sucessfully! 
+2016-03-19 15:50:00,042 INFO  [BussenesCompernat] Exception in sending audio! 
+2016-03-19 15:50:00,042 INFO  [OneToOneCurrentLocation] Audio message complete 
+2016-03-19 15:50:00,197 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-19 15:50:00,197 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-19 15:50:50,345 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:51:09,315 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:51:27,463 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:52:05,185 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-19 15:52:24,378 INFO  [BussenesCompernat] user should able to click audio message! 
+2016-03-19 15:53:03,220 INFO  [BussenesCompernat] recording audio sucessfully! 
+2016-03-19 15:53:21,298 INFO  [BussenesCompernat] Exception in sending audio! 
+2016-03-19 15:53:22,383 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-19 15:53:22,383 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-19 15:53:22,383 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-19 15:54:36,355 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-19 15:54:55,804 INFO  [BussenesCompernat] click video button ! 
+2016-03-19 15:54:58,356 INFO  [BussenesCompernat] video capture working! 
+2016-03-19 15:55:05,183 INFO  [BussenesCompernat] user sucessfuly send video! 
+2016-03-19 15:55:05,183 INFO  [OneToOneCurrentLocation] Video message complete 
+2016-03-19 15:55:05,394 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-19 15:55:05,395 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-19 15:55:48,510 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 15:56:07,500 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 15:56:26,862 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-19 15:57:04,748 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-19 15:57:24,121 INFO  [BussenesCompernat] click video button ! 
+2016-03-19 15:57:26,822 INFO  [BussenesCompernat] video capture working! 
+2016-03-19 15:57:33,728 INFO  [BussenesCompernat] user sucessfuly send video! 
+2016-03-19 15:58:03,602 INFO  [CreatingGroup] group button sucessfuly clicked! 
+2016-03-19 15:58:08,554 INFO  [CreatingGroup] sucessfuly user click create new group button! 
+2016-03-19 15:58:08,642 INFO  [CreatingGroup] getOnetoOneChatDataList:3 
+2016-03-19 15:59:15,520 INFO  [CreatingGroup] allElements:3 
+2016-03-19 15:59:19,588 INFO  [CreatingGroup] ExceptedName:Tapana Sansa 
+2016-03-19 15:59:19,588 INFO  [CreatingGroup] ActualName:Tapana Sansa  
+2016-03-19 15:59:27,396 INFO  [CreatingGroup] ExceptedName:T 
+2016-03-19 15:59:27,396 INFO  [CreatingGroup] ActualName:Tapana Sansa  
+2016-03-19 15:59:27,396 INFO  [CreatingGroup] friend name not display! 
+2016-03-19 15:59:31,401 INFO  [CreatingGroup] ExceptedName:uk number tapana 
+2016-03-19 15:59:31,401 INFO  [CreatingGroup] ActualName:Tapana Sansa  
+2016-03-19 15:59:31,401 INFO  [CreatingGroup] friend name not display! 
+2016-03-19 16:00:12,832 INFO  [CreatingGroup] allElements:1 
+2016-03-19 16:00:16,573 INFO  [CreatingGroup] ExceptedName:My Friends 
+2016-03-19 16:00:16,573 INFO  [CreatingGroup] ActualName:My Friends 
+2016-03-19 16:01:01,275 INFO  [CreatingGroup] allElements:1 
+2016-03-19 16:01:05,206 INFO  [CreatingGroup] ExceptedName:navnath tester 
+2016-03-19 16:01:05,207 INFO  [CreatingGroup] ActualName:Navnath  
+2016-03-19 16:01:05,207 INFO  [CreatingGroup] friend name not display! 
+2016-03-19 16:01:05,207 INFO  [CreatingGroup] GroupName 
+2016-03-19 16:01:14,530 INFO  [CreatingGroup] user is able to click group profile icon! 
+2016-03-19 16:01:21,012 INFO  [CreatingGroup] user click on image button! 
+2016-03-19 16:01:21,012 INFO  [CreatingGroup] user attchment of image sucessfuly! 
+2016-03-19 16:01:36,166 INFO  [CreatingGroup] user should attchmnet image in gallery! 
+2016-03-19 16:02:00,931 INFO  [CreatingGroup] Group creating sucessfuly! 
+2016-03-19 16:02:05,071 INFO  [RegisterPage] GroupName:ROsen 
+2016-03-19 16:02:05,072 INFO  [BussenesCompernat] GroupName:ROsen 
+2016-03-19 16:02:05,476 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 16:02:05,476 INFO  [RegisterPage] str:1 
+2016-03-19 16:02:05,476 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 16:02:05,476 INFO  [BussenesCompernat] exception in camera button 
+2016-03-19 16:02:05,525 INFO  [RegisterPage] str:1 
+2016-03-19 16:02:05,525 INFO  [RegisterPage] MessageType:Blink 
+2016-03-19 16:02:05,527 INFO  [RegisterPage] exception in blink message! 
+2016-03-19 16:02:05,654 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 16:02:05,654 INFO  [RegisterPage] str:1 
+2016-03-19 16:02:05,655 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 16:02:05,656 INFO  [BussenesCompernat] exception in greeting selection! 
+2016-03-19 16:02:05,696 INFO  [RegisterPage] str:1 
+2016-03-19 16:02:05,696 INFO  [RegisterPage] MessageType:Blink 
+2016-03-19 16:02:05,698 INFO  [RegisterPage] exception in blink message! 
+2016-03-19 16:02:05,727 INFO  [RegisterPage] Exception in group text data 
+2016-03-19 16:02:05,819 INFO  [BussenesCompernat] exception in taking screen shot 
+2016-03-19 16:02:23,901 INFO  [BussenesCompernat] GroupName:ROsen 
+2016-03-19 16:02:28,850 INFO  [BussenesCompernat] group button sucessfuly clicked! 
+2016-03-19 16:02:32,836 INFO  [BussenesCompernat] click search bar! 
+2016-03-19 16:02:39,966 INFO  [BussenesCompernat] user is able to  search group sucessfuly! 
+2016-03-19 16:02:45,618 INFO  [BussenesCompernat] webList:1 
+2016-03-19 16:02:45,736 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 16:02:45,736 INFO  [RegisterPage] str:1 
+2016-03-19 16:02:45,736 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 16:32:58,326 INFO  [RegisterPage] GroupName:ROsen 
+2016-03-19 16:32:58,326 INFO  [BussenesCompernat] GroupName:ROsen 
+2016-03-19 16:33:47,554 INFO  [RegisterPage] GroupName:ROsen 
+2016-03-19 16:33:47,555 INFO  [BussenesCompernat] GroupName:ROsen 
+2016-03-19 16:33:52,481 INFO  [BussenesCompernat] group button sucessfuly clicked! 
+2016-03-19 16:33:56,714 INFO  [BussenesCompernat] click search bar! 
+2016-03-19 16:34:03,731 INFO  [BussenesCompernat] user is able to  search group sucessfuly! 
+2016-03-19 16:34:09,259 INFO  [BussenesCompernat] webList:1 
+2016-03-19 16:34:13,328 INFO  [BussenesCompernat] ActualGroupName:ROsen 
+2016-03-19 16:34:13,329 INFO  [BussenesCompernat] GroupName:ROsen 
+2016-03-19 16:34:17,592 INFO  [BussenesCompernat] click group panel! 
+2016-03-19 16:34:21,611 INFO  [BussenesCompernat] user is sucessfuly click thread of group! 
+2016-03-19 16:34:21,945 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-19 16:34:21,945 INFO  [RegisterPage] str:1 
+2016-03-19 16:34:21,945 INFO  [RegisterPage] MessageType:Normal 
+2016-03-19 16:34:21,945 INFO  [RegisterPage] textMessage:HAI TAPANA GOOD MORNING 
+2016-03-19 16:34:40,845 INFO  [BussenesCompernat] Text Message Sending to text type text! 
+2016-03-19 16:34:49,379 INFO  [RegisterPage] str:1 
+2016-03-19 16:34:49,379 INFO  [RegisterPage] MessageType:Blink 
+2016-03-19 16:34:49,379 INFO  [RegisterPage] textMessage:HAI TAPANA GOOD MORNING 
+2016-03-19 16:34:57,468 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-19 16:35:01,738 INFO  [BussenesCompernat] user is click blink button 
+2016-03-19 16:35:05,723 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:09,727 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:09,728 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:09,728 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:09,754 INFO  [BussenesCompernat] exception in sending doodle+ 
+2016-03-21 17:43:09,754 INFO  [RegisterPage] Doodle message complete 
+2016-03-21 17:43:09,860 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:09,860 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:09,860 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:09,994 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:09,994 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:09,994 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,002 INFO  [BussenesCompernat] exception in camera button 
+2016-03-21 17:43:10,012 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,012 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,012 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,049 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:10,050 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,050 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,050 INFO  [BussenesCompernat] exception in greeting selection! 
+2016-03-21 17:43:10,050 INFO  [RegisterPage] greeting message complete 
+2016-03-21 17:43:10,059 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,060 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,060 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,103 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:10,103 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,103 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,103 INFO  [BussenesCompernat] exception in sticker selection! 
+2016-03-21 17:43:10,103 INFO  [RegisterPage] Sticker message complete 
+2016-03-21 17:43:10,113 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,113 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,113 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,174 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 17:43:10,175 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:10,175 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 17:43:10,175 INFO  [BussenesCompernat] exception in sending image! 
+2016-03-21 17:43:10,175 INFO  [OneToOneCurrentLocation] GalleryImage message complete 
+2016-03-21 17:43:10,187 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:10,187 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 17:43:10,187 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 17:43:10,263 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 17:43:10,263 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:10,263 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 17:43:10,263 INFO  [BussenesCompernat] Audio message sending exception! 
+2016-03-21 17:43:10,264 INFO  [OneToOneCurrentLocation] Audio message complete 
+2016-03-21 17:43:10,275 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:10,275 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 17:43:10,275 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 17:43:10,353 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 17:43:10,353 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:10,353 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 17:43:10,353 INFO  [BussenesCompernat] Exception in video message sending! 
+2016-03-21 17:43:10,353 INFO  [OneToOneCurrentLocation] Video message complete 
+2016-03-21 17:43:10,359 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:10,359 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 17:43:10,359 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 17:43:10,452 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:10,452 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,452 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,452 INFO  [BussenesCompernat] exception in camera button 
+2016-03-21 17:43:10,527 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,527 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,527 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,568 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:10,568 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,568 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,568 INFO  [BussenesCompernat] exception in greeting selection! 
+2016-03-21 17:43:10,598 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,598 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,598 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,630 INFO  [RegisterPage] Exception in group text data 
+2016-03-21 17:43:10,671 INFO  [BussenesCompernat] exception in taking screen shot 
+2016-03-21 17:43:10,720 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:10,720 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,720 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,720 INFO  [BussenesCompernat] exception in sticker selection! 
+2016-03-21 17:43:10,745 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,745 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,745 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,840 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:10,841 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,841 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,841 INFO  [BussenesCompernat] exception in sending doodle+ 
+2016-03-21 17:43:10,870 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,870 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,870 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,913 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:10,913 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,913 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:10,913 INFO  [BussenesCompernat] exception in current location! 
+2016-03-21 17:43:10,939 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:10,939 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:10,939 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:10,990 INFO  [InPutExcelDataExtractor] exception in reading  data from  getOneToOneTextList 
+2016-03-21 17:43:10,991 INFO  [RegisterPage] getResisterDataList:0 
+2016-03-21 17:43:11,072 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:11,072 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:11,072 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:11,072 INFO  [BussenesCompernat] Audio message sending exception! 
+2016-03-21 17:43:11,094 INFO  [BussenesCompernat] exception in taking screen shot 
+2016-03-21 17:43:11,094 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:11,094 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:11,094 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:11,114 INFO  [BussenesCompernat] exception in taking screen shot 
+2016-03-21 17:43:39,901 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:39,901 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:39,901 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:39,907 INFO  [BussenesCompernat] exception in sending doodle+ 
+2016-03-21 17:43:39,907 INFO  [RegisterPage] Doodle message complete 
+2016-03-21 17:43:39,972 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:39,972 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:39,972 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:40,136 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:40,136 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:40,136 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:40,145 INFO  [BussenesCompernat] exception in camera button 
+2016-03-21 17:43:40,158 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:40,158 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:40,158 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:40,221 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:40,229 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:40,229 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:40,229 INFO  [BussenesCompernat] exception in greeting selection! 
+2016-03-21 17:43:40,229 INFO  [RegisterPage] greeting message complete 
+2016-03-21 17:43:40,350 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:40,350 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:40,350 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:40,466 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:40,538 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:40,538 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:40,538 INFO  [BussenesCompernat] exception in sticker selection! 
+2016-03-21 17:43:40,538 INFO  [RegisterPage] Sticker message complete 
+2016-03-21 17:43:40,548 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:40,548 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:40,548 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:40,712 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 17:43:40,712 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:40,712 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 17:43:40,712 INFO  [BussenesCompernat] exception in sending image! 
+2016-03-21 17:43:40,712 INFO  [OneToOneCurrentLocation] GalleryImage message complete 
+2016-03-21 17:43:40,749 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:40,749 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 17:43:40,749 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 17:43:40,831 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 17:43:40,831 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:40,831 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 17:43:40,831 INFO  [BussenesCompernat] Audio message sending exception! 
+2016-03-21 17:43:40,831 INFO  [OneToOneCurrentLocation] Audio message complete 
+2016-03-21 17:43:40,840 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:40,840 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 17:43:40,840 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 17:43:40,922 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 17:43:40,922 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:40,922 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 17:43:40,922 INFO  [BussenesCompernat] Exception in video message sending! 
+2016-03-21 17:43:40,922 INFO  [OneToOneCurrentLocation] Video message complete 
+2016-03-21 17:43:40,931 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 17:43:40,931 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 17:43:40,931 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 17:43:41,023 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:41,023 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,023 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:41,023 INFO  [BussenesCompernat] exception in camera button 
+2016-03-21 17:43:41,054 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,055 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:41,055 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:41,223 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:41,223 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,223 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:41,223 INFO  [BussenesCompernat] exception in greeting selection! 
+2016-03-21 17:43:41,272 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,272 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:41,272 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:41,303 INFO  [RegisterPage] Exception in group text data 
+2016-03-21 17:43:41,325 INFO  [BussenesCompernat] exception in taking screen shot 
+2016-03-21 17:43:41,358 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:41,358 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,358 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:41,358 INFO  [BussenesCompernat] exception in sticker selection! 
+2016-03-21 17:43:41,430 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,430 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:41,430 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:41,573 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:41,573 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,573 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:41,573 INFO  [BussenesCompernat] exception in sending doodle+ 
+2016-03-21 17:43:41,632 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,632 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:41,633 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:41,726 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:41,726 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,726 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:41,726 INFO  [BussenesCompernat] exception in current location! 
+2016-03-21 17:43:41,757 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,757 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:41,757 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:41,837 INFO  [InPutExcelDataExtractor] exception in reading  data from  getOneToOneTextList 
+2016-03-21 17:43:41,837 INFO  [RegisterPage] getResisterDataList:0 
+2016-03-21 17:43:41,883 INFO  [RegisterPage] getResisterDataList:2 
+2016-03-21 17:43:41,883 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,883 INFO  [RegisterPage] MessageType:Normal 
+2016-03-21 17:43:41,883 INFO  [BussenesCompernat] Audio message sending exception! 
+2016-03-21 17:43:41,909 INFO  [BussenesCompernat] exception in taking screen shot 
+2016-03-21 17:43:41,909 INFO  [RegisterPage] str:1 
+2016-03-21 17:43:41,909 INFO  [RegisterPage] MessageType:Blink 
+2016-03-21 17:43:41,909 INFO  [RegisterPage] exception in blink message! 
+2016-03-21 17:43:41,944 INFO  [BussenesCompernat] exception in taking screen shot 

@@ -102,3 +102,27 @@
 2016-03-22 16:03:22,134 INFO  [RegisterPage] display bussy! 
 2016-03-22 16:03:26,437 INFO  [RegisterPage] click save buttion! 
 2016-03-22 16:03:49,750 INFO  [RegisterPage] click save icon buttion! 
+2016-03-22 17:22:32,740 INFO  [RegisterPage] click image roted button! 
+2016-03-22 17:22:35,276 INFO  [RegisterPage] capture photo 
+2016-03-22 17:22:37,793 INFO  [RegisterPage] user click on use photo 
+2016-03-22 17:22:45,657 INFO  [RegisterPage] nameOfUser:Varsha 
+2016-03-22 17:22:49,652 INFO  [RegisterPage] click on eddit button! 
+2016-03-22 17:22:53,728 INFO  [RegisterPage] clear main name! 
+2016-03-22 17:22:59,095 INFO  [RegisterPage] sending text message complete! 
+2016-03-22 17:23:03,351 INFO  [RegisterPage] click save button! 
+2016-03-22 17:23:14,689 INFO  [RegisterPage] display bussy! 
+2016-03-22 17:23:17,420 INFO  [RegisterPage] click save buttion! 
+2016-03-22 17:23:19,983 INFO  [RegisterPage] click save icon buttion! 
+2016-03-22 17:24:13,625 INFO  [RegisterPage] userData:Tapana.testing@outlook.com 
+2016-03-22 17:26:53,976 INFO  [RegisterPage] click image roted button! 
+2016-03-22 17:26:56,619 INFO  [RegisterPage] capture photo 
+2016-03-22 17:26:58,994 INFO  [RegisterPage] user click on use photo 
+2016-03-22 17:27:06,785 INFO  [RegisterPage] nameOfUser:Varsha 
+2016-03-22 17:27:10,828 INFO  [RegisterPage] click on eddit button! 
+2016-03-22 17:27:15,000 INFO  [RegisterPage] clear main name! 
+2016-03-22 17:27:20,774 INFO  [RegisterPage] sending text message complete! 
+2016-03-22 17:27:24,862 INFO  [RegisterPage] click save button! 
+2016-03-22 17:27:36,164 INFO  [RegisterPage] display bussy! 
+2016-03-22 17:27:39,029 INFO  [RegisterPage] click save buttion! 
+2016-03-22 17:27:41,468 INFO  [RegisterPage] click save icon buttion! 
+2016-03-22 17:28:33,508 INFO  [RegisterPage] userData:Tapana.testing@outlook.com 
