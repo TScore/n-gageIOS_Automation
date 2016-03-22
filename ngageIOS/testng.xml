@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All To All Chating Message" parallel="false">
+
+	<test name="ONEtoONETextChat">
+		<classes>
+			<!-- <class name="automationScript.RegisterPage"/> -->
+			<class name="automationScript.OneToOneText" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="ONEtoONEDoodle">
+		<classes>
+			<class name="automationScript.OneToOneDoodle" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="OneToOneImageChat">
+		<classes>
+			<class name="automationScript.OneToOneImage" />
+		</classes>
+	</test> <!-- Test -->
+
+
+	<test name="ONEtoONEGreetingChat">
+		<classes>
+			<class name="automationScript.OneToOneGreeting" />
+		</classes>
+	</test> <!-- Test -->
+
+
+	<test name="ONEtoONEStickerChat">
+		<classes>
+			<class name="automationScript.OneToOneSticker" />
+		</classes>
+	</test> <!-- Test -->
+
+
+	<test name="ONEtoONECurrentLocationChat">
+		<classes>
+			<class name="automationScript.OneToOneCurrentLocation" />
+		</classes>
+	</test> <!-- Test -->
+
+
+	<!--  <test name="ONEtoONEOtherLocationChat">
+		<classes>
+			<class name="automationScript.OneToOneOtherLocation" />
+		</classes>
+	</test> Test -->
+
+	<test name="ONEtoONEExistingImage">
+		<classes>
+			<class name="automationScript.OneToOneExistingImage" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="ONEtoONEAudio">
+		<classes>
+			<class name="automationScript.OneToOneAudioRecording" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="ONEtoONEVideoChat">
+		<classes>
+			<class name="automationScript.OneToOneVideoRecording" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="CreatingGroupTest">
+		<classes>
+			<class name="automationScript.CreatingGroup" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="GroupTextChat">
+		<classes>
+			<class name="automationScript.GroupChating" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="GroupImageChat">
+		<classes>
+			<class name="automationScript.GroupImage" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="GroupGreetingChat">
+		<classes>
+			<class name="automationScript.GroupGreeting" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="GroupStickerChat">
+		<classes>
+			<class name="automationScript.GroupSticker" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="GroupChatDoodleChat">
+		<classes>
+			<class name="automationScript.GroupChatDoodle" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="GroupCurrentLocationChat">
+		<classes>
+			<class name="automationScript.GroupCurrentLocation" />
+		</classes>
+	</test> <!-- Test -->
+
+	<!-- <test name="GroupOtherLocationChat">
+		<classes>
+			<class name="automationScript.GroupChatOtherLocation" />
+		</classes>
+	</test> Test -->
+
+	<test name="GroupVideoRecordingChat">
+		<classes>
+			<class name="automationScript.GroupChatVideoRecording" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="GroupChooseExistingAudioChat">
+		<classes>
+			<class name="automationScript.GroupChatChooseExistingAudio" />
+		</classes>
+	</test> <!-- Test -->
+	<listeners>
+  <listener class-name="atu.testng.reports.listeners.ATUReportsListener"></listener>
+  <listener class-name="atu.testng.reports.listeners.ConfigurationListener"></listener>
+  <listener class-name="atu.testng.reports.listeners.MethodListener"></listener>
+  </listeners>   
+</suite> <!-- Suite -->

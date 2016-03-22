@@ -1,0 +1,104 @@
+2016-03-21 20:03:13,803 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 20:03:16,203 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:03:17,186 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:03:18,178 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 20:04:25,531 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-21 20:08:39,543 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 20:08:39,573 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:08:39,573 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:08:39,573 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 20:09:16,762 INFO  [BussenesCompernat] exception in current location! 
+2016-03-21 20:09:16,820 INFO  [OneToOneCurrentLocation] CurrentLocation message complete 
+2016-03-21 20:09:16,919 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:09:16,919 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:09:16,919 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 20:09:16,923 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 20:11:20,270 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 20:11:20,315 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:11:20,315 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:11:20,315 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 20:12:17,398 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-21 20:13:02,290 INFO  [BussenesCompernat] user should sucessfuly click location! 
+2016-03-21 20:13:04,861 INFO  [BussenesCompernat] exception in current location! 
+2016-03-21 20:13:04,861 INFO  [OneToOneCurrentLocation] CurrentLocation message complete 
+2016-03-21 20:13:04,977 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:13:04,977 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:13:04,977 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 20:14:36,899 INFO  [OneToOneCurrentLocation] exception in blink message! 
+2016-03-21 20:18:41,398 INFO  [OneToOneCurrentLocation] getResisterDataList:2 
+2016-03-21 20:18:41,427 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:18:41,427 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:18:41,427 INFO  [OneToOneCurrentLocation] MessageType:Normal 
+2016-03-21 20:19:38,745 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-21 20:20:17,052 INFO  [BussenesCompernat] user should sucessfuly click location! 
+2016-03-21 20:20:21,743 INFO  [OneToOneCurrentLocation] CurrentLocation message complete 
+2016-03-21 20:20:21,873 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:20:21,873 INFO  [OneToOneCurrentLocation] str:1 
+2016-03-21 20:20:21,873 INFO  [OneToOneCurrentLocation] MessageType:Blink 
+2016-03-21 20:21:02,672 INFO  [BussenesCompernat] sucessfuly user click below manu button 
+2016-03-21 20:21:21,823 INFO  [BussenesCompernat] user is click blink button 
+2016-03-21 20:21:40,975 INFO  [BussenesCompernat] user should click time of blink button! 
+2016-03-21 20:22:17,844 INFO  [BussenesCompernat] attchment button clicked! 
+2016-03-21 20:22:58,428 INFO  [BussenesCompernat] user should sucessfuly click location! 
+2016-03-21 21:16:35,729 INFO  [RegisterPage] click on option button! 
+2016-03-21 21:16:49,924 INFO  [RegisterPage] NgageVersion:1.0.21 (0.21.2) 
+2016-03-21 21:16:53,918 INFO  [RegisterPage] 1.click terms of service! 
+2016-03-21 21:18:01,307 INFO  [RegisterPage] click on option button! 
+2016-03-21 21:18:16,078 INFO  [RegisterPage] NgageVersion:1.0.21 (0.21.2) 
+2016-03-21 21:18:27,870 INFO  [RegisterPage] 1.click terms of service! 
+2016-03-21 21:18:33,318 INFO  [RegisterPage] 2.click ok buttion! 
+2016-03-21 21:18:49,783 INFO  [RegisterPage] 3.click Privacy Policy! 
+2016-03-21 21:19:14,016 INFO  [RegisterPage] 4.click ok buttion! 
+2016-03-21 21:19:35,020 INFO  [RegisterPage] click contact us option! 
+2016-03-21 21:19:58,034 INFO  [RegisterPage] sending application  
+2016-03-21 21:20:16,785 INFO  [RegisterPage] Click save bution 
+2016-03-21 21:20:46,201 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:20:51,209 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:20:56,424 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:01,629 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:06,634 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:12,072 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:17,243 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:23,613 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:28,906 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:35,232 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:41,714 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:48,306 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:21:54,719 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:01,231 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:07,583 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:14,058 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:20,329 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:26,811 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:33,107 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:39,887 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:46,562 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:53,242 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:22:59,985 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:06,725 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:13,445 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:20,118 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:26,975 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:33,546 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:40,269 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:47,126 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:23:54,115 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:01,226 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:08,227 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:15,361 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:22,365 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:29,723 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:36,898 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:44,263 INFO  [RegisterPage] click FAQ list! 
+2016-03-21 21:24:51,576 INFO  [RegisterPage] click FAQ list! 
+2016-03-22 16:02:21,785 INFO  [RegisterPage] click image roted button! 
+2016-03-22 16:02:26,517 INFO  [RegisterPage] capture photo 
+2016-03-22 16:02:32,916 INFO  [RegisterPage] user click on use photo 
+2016-03-22 16:02:43,077 INFO  [RegisterPage] nameOfUser:Varsha 
+2016-03-22 16:02:48,789 INFO  [RegisterPage] click on eddit button! 
+2016-03-22 16:02:54,501 INFO  [RegisterPage] clear main name! 
+2016-03-22 16:03:01,021 INFO  [RegisterPage] sending text message complete! 
+2016-03-22 16:03:07,213 INFO  [RegisterPage] click save button! 
+2016-03-22 16:03:22,134 INFO  [RegisterPage] display bussy! 
+2016-03-22 16:03:26,437 INFO  [RegisterPage] click save buttion! 
+2016-03-22 16:03:49,750 INFO  [RegisterPage] click save icon buttion! 
